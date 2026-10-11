@@ -182,51 +182,28 @@ Contributions are welcome! Follow these steps to submit new B2B buyer engagement
 
 
 
-## 📊 Star History
-
-
-
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-B2b-Buyer-Engagement&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-B2b-Buyer-Engagement&type=date&legend=top-left)
-
-
-
----
-
-
-
 ## 🤝 Support & Sponsorship
 
+Thank you so much for exploring the **Awesome B2B Buyer Engagement** repository! 💖 If this curated directory helps you navigate commercial ABM suites, evaluate intent data, or deploy self-hosted buyer journey platforms, please consider showing your support:
 
-
-If you find this B2B buyer engagement repository useful, please consider supporting the project:
-
-
-
-- ⭐ **Star** this repository to increase visibility!
-
-- 🔀 **Fork** and share with fellow demand generation leaders, ABM strategists, and open-source advocates.
-
-- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
-
-
+- ⭐ **Star** this repository on GitHub to help others discover it!
+- 🍴 **Fork** this project and contribute your favorite B2B engagement frameworks, intent intelligence tools, or playbooks.
+- 📢 **Share** this list with fellow marketing technologists, demand generation leaders, and RevOps engineers.
+- ☕ **Buy Me a Coffee / Sponsor**: Support continuous maintenance and unbiased curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-B2b-Buyer-Engagement&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-B2b-Buyer-Engagement&type=date&legend=top-left)
 
+---
 
 ## ⚠️ Disclaimer
 
-
-
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-
 - **6sense and Demandbase sit at the premium end** — **publish no pricing, carry Vendr median contracts of $62,440 and $68,591** respectively, and **require 8–12 week implementations with 9–12 months to demonstrate measurable ROI** . **Hidden costs — particularly ad spend, data enrichment, and implementation — can double first-year investment** .
-
 - **Terminus merged into DemandScience on November 12, 2024** — **Ionic is the surviving orchestration product** . **PathFactory was acquired by Kaltura on April 1, 2026** — **ask about roadmap before committing** . **Folloze does not publish list pricing** — any figure found is a third-party estimate .
-
 - **Open-source buyer engagement platforms are not turnkey** — **Mautic requires PHP and MySQL** . **Helio requires Docker, PostgreSQL, Redis, and ClickHouse** . **Laudspeaker requires Node.js and PostgreSQL** . **Always validate intent data accuracy, personalization quality, and CRM data hygiene with a proof-of-concept** before production deployment. 📊
-
-
 
 ---
 
