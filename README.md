@@ -113,34 +113,34 @@ Whether you are evaluating enterprise-tier commercial solutions (such as **6sens
 
 ## 🔓 Open-Source GitHub Projects
 
-*Curated open-source software, self-hostable platforms, developer-first ABM tools, and privacy-respecting buyer journey engines sorted by GitHub Stars Count (Descending)* 🌟
+*Curated open-source software, self-hostable platforms, developer-first ABM tools, and privacy-respecting buyer journey engines sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
-  **The open-source CRM alternative to Salesforce, designed for AI**, AGPL-3.0 licensed. **58,000+ GitHub Stars**. Full control over customer and target account data, customizable pipeline stages, native Postgres foundation, GraphQL & REST APIs, and modern account intelligence workflows. Essential core repository for managing target account lists and buying committee hierarchies. 🏢
+  **The open-source CRM alternative to Salesforce, designed for AI**, AGPL-3.0 licensed. **58,000+ GitHub_Stars**. Full control over customer and target account data, customizable pipeline stages, native Postgres foundation, GraphQL & REST APIs, and modern account intelligence workflows. Essential core repository for managing target account lists and buying committee hierarchies. 🏢
 
 - **[Cal.com](https://github.com/calcom/cal.com)** [![Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
-  **Open-source scheduling infrastructure for buyer meetings**, AGPL-3.0 licensed. **48,900+ GitHub Stars**. Replaces Calendly and Chili Piper for frictionless B2B buyer inbound booking, qualified lead routing, round-robin sales meetings, and automated buyer confirmation journeys directly from marketing web pages. 📅
+  **Open-source scheduling infrastructure for buyer meetings**, AGPL-3.0 licensed. **48,900+ GitHub_Stars**. Replaces Calendly and Chili Piper for frictionless B2B buyer inbound booking, qualified lead routing, round-robin sales meetings, and automated buyer confirmation journeys directly from marketing web pages. 📅
 
 - **[Novu](https://github.com/novuhq/novu)** [![Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
-  **The open-source communication infrastructure for agents, products, and buyer engagement**, MIT licensed. **40,100+ GitHub Stars**. Enterprise notification center providing cross-channel buyer messaging orchestration (in-app notifications, transactional email, SMS, push, chat) with a visual workflow designer, digest engines, and subscriber preferences. 🔔
+  **The open-source communication infrastructure for agents, products, and buyer engagement**, MIT licensed. **40,100+ GitHub_Stars**. Enterprise notification center providing cross-channel buyer messaging orchestration (in-app notifications, transactional email, SMS, push, chat) with a visual workflow designer, digest engines, and subscriber preferences. 🔔
 
 - **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
-  **Open-source live chat and conversational engagement platform**, MIT licensed. **37,600+ GitHub Stars**. Open alternative to Intercom and Drift. Engage high-intent website visitors in real-time, route key account visitors directly to dedicated account executives, and unify omnichannel buyer conversations across website widgets, email, and social channels. 💬
+  **Open-source live chat and conversational engagement platform**, MIT licensed. **37,600+ GitHub_Stars**. Open alternative to Intercom and Drift. Engage high-intent website visitors in real-time, route key account visitors directly to dedicated account executives, and unify omnichannel buyer conversations across website widgets, email, and social channels. 💬
 
 - **[Plausible Analytics](https://github.com/plausible/analytics)** [![Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)  
-  **Privacy-first, lightweight open-source web analytics**, AGPL-3.0 licensed. **29,300+ GitHub Stars**. Cookie-free alternative to Google Analytics ideal for tracking buyer journey attribution, high-intent landing page conversions, campaign referral channels, and content engagement without cookie banners or GDPR friction. 📈
+  **Privacy-first, lightweight open-source web analytics**, AGPL-3.0 licensed. **29,300+ GitHub_Stars**. Cookie-free alternative to Google Analytics ideal for tracking buyer journey attribution, high-intent landing page conversions, campaign referral channels, and content engagement without cookie banners or GDPR friction. 📈
 
 - **[Formbricks](https://github.com/formbricks/formbricks)** [![Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
-  **Open-source survey and buyer experience platform**, AGPL-3.0 licensed. **13,000+ GitHub Stars**. Alternative to Qualtrics. Trigger targeted micro-surveys at specific points in the buyer journey, collect qualification feedback from named accounts, and uncover buyer objections directly on your web pages. 📋
+  **Open-source survey and buyer experience platform**, AGPL-3.0 licensed. **13,000+ GitHub_Stars**. Alternative to Qualtrics. Trigger targeted micro-surveys at specific points in the buyer journey, collect qualification feedback from named accounts, and uncover buyer objections directly on your web pages. 📋
 
 - **[Mautic](https://github.com/mautic/mautic)** [![Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)  
-  **World's premier open-source marketing automation platform**, GPL-3.0 licensed. **10,700+ GitHub Stars**. Over 40,000 organizations deploy Mautic for end-to-end B2B lead nurturing, account scoring, dynamic content personalization, drip campaign workflows, and self-hosted CRM integrations. 🏛️
+  **World's premier open-source marketing automation platform**, GPL-3.0 licensed. **10,700+ GitHub_Stars**. Over 40,000 organizations deploy Mautic for end-to-end B2B lead nurturing, account scoring, dynamic content personalization, drip campaign workflows, and self-hosted CRM integrations. 🏛️
 
 - **[Laudspeaker](https://github.com/laudspeaker/laudspeaker)** [![Stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)  
-  **Open-source customer journey automation — a self-hosted Braze/Iterable alternative**, AGPL-3.0 licensed. **2,600+ GitHub Stars**. Powers event-triggered omnichannel buyer messages (email, SMS, push) with an intuitive no-code journey canvas, time delays/windows, dynamic user cohorts, and direct Postgres/PostHog imports. 🎨
+  **Open-source customer journey automation — a self-hosted Braze/Iterable alternative**, AGPL-3.0 licensed. **2,600+ GitHub_Stars**. Powers event-triggered omnichannel buyer messages (email, SMS, push) with an intuitive no-code journey canvas, time delays/windows, dynamic user cohorts, and direct Postgres/PostHog imports. 🎨
 
 - **[Tracardi](https://github.com/Tracardi/tracardi)** [![Stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=social&color=white)](https://github.com/Tracardi/tracardi/stargazers)  
-  **Open-source Customer Data Platform (CDP) & real-time personalization engine**, MIT licensed. **650+ GitHub Stars**. Ingests customer behavior across touchpoints, calculates real-time customer profiles, segments high-intent accounts, and triggers automated multi-channel engagement events. 📊
+  **Open-source Customer Data Platform (CDP) & real-time personalization engine**, MIT licensed. **650+ GitHub_Stars**. Ingests customer behavior across touchpoints, calculates real-time customer profiles, segments high-intent accounts, and triggers automated multi-channel engagement events. 📊
 
 - **[Helio](https://github.com/achref-soua/helio)** [![Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)  
   **AI-native open-source growth platform**, AGPL-3.0 licensed. High-performance CDP and marketing automation engine load-tested at 20,000 events/sec at p95 81ms with PostgreSQL row-level security and Temporal orchestration. 🚀
