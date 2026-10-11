@@ -104,41 +104,22 @@ Welcome to the ultimate curated directory of **B2B buyer engagement platforms**,
 
 ## 🏢 SaaS / Commercial Platforms
 
+> **Market Sizing & Industry Structure:** The B2B Buyer Engagement, ABM, and Intent Data sector is valued at approximately **$4.5B to $6.2B** (with the broader B2B marketing tech sector exceeding $22B at ~13-16% CAGR). The market structure is **moderately fragmented across the mid-market and SMB tiers, but highly concentrated among an elite tier of enterprise leaders** (such as 6sense, Demandbase, and ZoomInfo) who command proprietary data cooperatives, extensive identity graphs, and enterprise RevOps workflows.
 
-
-The B2B buyer engagement market spans **intent data platforms** (6sense, Demandbase, Leadpoet) that identify **which accounts are actively in market**, **account-based marketing platforms** (Terminus, Folloze, PathFactory) that orchestrate **targeted engagement across channels**, and **direct mail and gifting platforms** (Sendoso, Alyce) that create **tangible touchpoints for key buyers**. **6sense and Demandbase median contracts are $62,440 and $68,591** respectively, with **hidden costs including ad spend, data enrichment, and implementation that can double first-year investment** . **Terminus is now DemandScience** with **Ionic as the surviving orchestration product** . **PathFactory is now part of Kaltura** — ask about roadmap .
-
-
-
-| SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
-
+| SaaS / Commercial Platform | Company / Owner | Company Size (Valuation / Revenue) | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-
-| **[6sense](https://6sense.com/)** 🎯 | 6sense | Private | **No published pricing**; median contract **$62,440**  | **No free plan**  | **Intent data and ABM platform** — **Identifies accounts actively in market** using AI-powered intent signals. **Enterprise-focused, built for running ABM across thousands of accounts with complex buying committees** . **Implementation: 8–12 weeks; ROI: 9–12 months** . |
-
-| **[Demandbase](https://www.demandbase.com/)** 🔷 | Demandbase | Private | **No published pricing**; median contract **$68,591**  | **Free tools but no free platform version**  | **Account intelligence and ABM platform** — **Enterprise intent and account intelligence** . **Premium end of the market, best suited for enterprise teams with dedicated RevOps resources and significant ad budgets** . |
-
-| **[Terminus (now DemandScience)](https://www.demandscience.com/)** 🟢 | DemandScience | Private | **Mid-market tools closer to $23,000/year**  | **No free tier**; demo required | **ABM orchestration platform** — **Terminus merged into DemandScience on November 12, 2024** with **Ionic as the surviving orchestration product** . **DemandScience for verified buyer data** . |
-
-| **[Folloze](https://www.folloze.com/)** 🟣 | Folloze | Private | **No published list price**; third-party estimates available  | **Demo available** | **Buyer engagement platform** — **Builds a curated destination for a named account, best in 1:1 and 1:few programs** . **Does not publish list pricing** — any figure found is a third-party estimate . |
-
-| **[PathFactory (now Kaltura)](https://www.pathfactory.com/)** 🔵 | Kaltura | ~$2 Billion | **Comparable contracts typically start in $50k–$80k range with services packages**  | **Demo available** | **Content intelligence platform** — **Sequences and recommends content for self-serve buyers at volume** . **Adds ChatFactory buying agents plus AI Search Optimization** . **Acquired by Kaltura on April 1, 2026** — ask about roadmap . |
-
-| **[Sendoso](https://www.sendoso.com/)** 🎁 | Sendoso | Private | **Custom enterprise pricing** | **Demo available** | **Corporate gifting and direct mail platform** — **Enables sales, marketing, and customer success teams to send physical and digital gifts at scale** . **Integrates with Salesforce, HubSpot, Outreach, Marketo, and other CRM and sales engagement tools** . |
-
-| **[Alyce](https://www.alyce.com/)** 🧠 | Alyce | Private | **Custom enterprise pricing** | **Demo available** | **Personal gifting platform** — **AI-powered gift recommendations for B2B buyer engagement** . |
-
-| **[Mutiny](https://www.mutinyhq.com/)** 🌐 | Mutiny | Private | **Custom enterprise pricing** | **Demo available** | **Website personalization platform** — **Personalizes web experiences for target accounts** . |
-
-| **[Leadpoet](https://leadpoet.com/)** 📊 | Leadpoet | ~$750K pre-seed | **Custom pricing** | **No free tier**; demo available | **AI-driven intent data** — **Analyzes open source web signals including social media posts, funding announcements, hiring activity, and other public indicators** to surface companies showing active buying intent . **Each recommended lead includes contextual evidence explaining why that company may be in market** . **Built on Bittensor decentralized AI network** . |
-
-| **[ZoomInfo GTM.AI CLI](https://github.com/Zoominfo/gtm-ai-cli)** ☁️ | ZoomInfo | ~$4 Billion | **Open source under MIT license**  | **Free: search and lookup commands**  | **Command-line client for verified GTM data** — **Search and enrich companies and contacts, pull intent signals, Scoops, and news, and run agentic research directly from the shell** . **Connects to GTM Context Graph with 100M+ companies, 500M+ contacts, and billions of buying signals** . **Enrichment and agentic research consume bulk data credits** . |
-
-
+| **[6sense](https://6sense.com/)** 🎯 | 6sense | **$5.2 Billion** (Series E Valuation) | **$60,000 / year** ($5,000/mo billed annually; median contract $62,440/yr + implementation) | **No free tier**; **0-day free trial** (Guided enterprise proof-of-concept / demo required) | **Intent data and ABM platform** — Identifies accounts actively in-market using predictive AI intent signals. Enterprise-focused, built for running ABM across complex buying committees. |
+| **[Demandbase](https://www.demandbase.com/)** 🔷 | Demandbase | **$1.33 Billion** (Private Valuation) | **$30,000 / year** ($2,500/mo base platform entry; median contract $68,591/yr) | **No free platform tier**; **0-day trial** (Free standalone browser extension only for 5 domain lookups/mo; platform requires demo) | **Account intelligence and ABM platform** — Combines B2B IP intent, account-based display ads, and orchestrations for enterprise RevOps teams. |
+| **[ZoomInfo GTM](https://www.zoominfo.com/)** ☁️ | ZoomInfo | **$1.10 Billion** (Public Market Cap / ~$1.2B ARR) | **$14,995 / year** (Professional Tier starting price, annual contract) | **ZoomInfo Lite**: 10 free credits/month (permanent free tier); **7-day free trial** with up to 25 contact lookups | **Go-to-market intelligence & buyer engagement** — Enterprise sales intelligence, org charts, buyer intent signals, and scoops across 100M+ companies. |
+| **[Mutiny](https://www.mutinyhq.com/)** 🌐 | Mutiny | **$600 Million** (Series B Valuation) | **$12,000 / year** ($1,000/mo starting floor; median contract $37,800/yr based on visitor traffic) | **No free tier**; **14-day free trial** (limited to 1 web campaign and up to 2,500 personalized visitors) | **Website personalization platform** — 1:1 and 1:few personalized landing pages and dynamic web components for inbound buyer accounts. |
+| **[DemandScience](https://www.demandscience.com/)** (incl. Terminus) 🟢 | DemandScience | **$380 Million+** (Annual Revenue Run-rate) | **$23,000 / year** ($1,916/mo starting package; managed media/syndication programs from $60,000/yr) | **No free tier**; **0-day free trial** (Managed services & enterprise ABM portal require scheduled demo) | **ABM orchestration & B2B data** — Houses Terminus/Ionic ABM ad engine, multi-channel buyer syndication, and verified B2B buyer intelligence. |
+| **[Sendoso](https://www.sendoso.com/)** 🎁 | Sendoso | **$250 Million – $540 Million** (Series C Valuation) | **$15,000 / year** ($1,250/mo base platform software fee + gifting variable budget) | **No free tier**; **14-day guided trial** (sandbox environment limited to test sends and digital demo cards) | **Direct mail & buyer gifting orchestration** — Automates physical door-openers, dimensional mail, and digital e-gifts integrated into CRM/ABM journeys. |
+| **[Kaltura](https://www.kaltura.com/)** (PathFactory) 🔵 | Kaltura (KLTR) | **$200 Million** (Public Market Cap) | **$36,000 / year** ($3,000/mo starting tier; enterprise contracts typically $50k–$80k/yr) | **No free tier**; **0-day free trial** (Demo only; proof-of-concept requires enterprise engagement) | **B2B Content intelligence platform** — Curates content journeys for self-directed buyer evaluation and integrates ChatFactory AI agents. |
+| **[Alyce](https://www.alyce.com/)** 🧠 | Sendoso (Acquired) | **$150 Million** (Historical Valuation / Sendoso Group) | **$18,000 / year** ($1,500/mo starting platform tier + gift fulfillment budget) | **No free tier**; **0-day free trial** (Sales demo required; test recipient workflows enabled on demo) | **Personalized buyer gifting** — AI-driven personal interest gifting to accelerate pipeline and re-engage dormant enterprise accounts. |
+| **[Folloze](https://www.folloze.com/)** 🟣 | Folloze | **$50 Million – $80 Million** (Series B Funded $21.6M) | **$15,000 / year** ($1,250/mo starting package for 1:1 and 1:few account boards) | **No free tier**; **0-day free trial** (Custom demo and buyer journey architecture review required) | **B2B Buyer experience platform** — Digital sales rooms and personalized microsites empowering frontline sales to engage buying committees. |
+| **[Leadpoet](https://leadpoet.com/)** 📊 | Leadpoet | **$6.7 Million** ($750K Pre-seed / Bittensor SN71 Subnet) | **$1,200 / year** ($100/mo Launch Plan; Accelerate at $500/mo) | **No free plan**; **7-day free trial** (Includes 25 free account search credits and 3 monitored accounts) | **Decentralized AI intent data** — Surfaces real-time buyer intent signals (funding, hiring surges, web tech stack shifts) powered by Bittensor subnet 71. |
 
 ---
-
-
 
 ## 🔓 Open-Source GitHub Projects
 
