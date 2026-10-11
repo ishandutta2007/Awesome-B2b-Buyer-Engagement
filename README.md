@@ -1,37 +1,20 @@
-# Awesome-B2b-Buyer-Engagement
-
 # Awesome-B2b-Buyer-Engagement 🤝 📊
 
-
-
 <p align="center">
-
   <img src="assets/banner.svg" alt="Awesome B2b Buyer Engagement Banner" width="100%">
-
 </p>
-
-
 
 <p align="center">
-
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-B2b-Buyer-Engagement"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-B2b-Buyer-Engagement?style=social" alt="GitHub_Stars"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-B2b-Buyer-Engagement/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-B2b-Buyer-Engagement?style=social" alt="GitHub Forks"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-B2b-Buyer-Engagement/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-B2b-Buyer-Engagement?color=blue" alt="License"/></a>
-
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
-
 </p>
-
 
 
 ---
-
 
 
 ## 🌟 Top B2B Buyer Engagement Ecosystem
@@ -43,13 +26,10 @@
 *Focused on Intent Data, Account-Based Marketing, Content Personalization, Buyer Intent Signals & Self-Hosted Engagement Platforms*
 
 
-
 **Last updated: October 2026** 📅
 
 
-
 ---
-
 
 
 ### 📌 Overview & SEO Summary
@@ -68,28 +48,21 @@ Whether you are evaluating enterprise-tier commercial solutions (such as **6sens
 - **Modern Open-Source Alternatives** (such as **Twenty** for CRM, **Cal.com** for buyer scheduling, **Chatwoot** for conversational sales, and **Novu** for omnichannel alerts) provide privacy-first, self-hostable foundations without vendor lock-in or unpredictable data egress costs.
 - **ZoomInfo released the GTM.AI CLI** under the MIT license, opening command-line access to account lookups and intent data for developers and autonomous agent loops.
 
----
 
+---
 
 
 ## 📑 Table of Contents
 
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
-
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
-
 - [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-
 - [📊 Star History](#-star-history)
-
 - [🤝 Support & Sponsorship](#-support--sponsorship)
-
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 
-
 ---
-
 
 
 ## 🏢 SaaS / Commercial Platforms
@@ -109,7 +82,9 @@ Whether you are evaluating enterprise-tier commercial solutions (such as **6sens
 | **[Folloze](https://www.folloze.com/)** 🟣 | Folloze | **$50 Million – $80 Million** (Series B Funded $21.6M) | **$15,000 / year** ($1,250/mo starting package for 1:1 and 1:few account boards) | **No free tier**; **0-day free trial** (Custom demo and buyer journey architecture review required) | **B2B Buyer experience platform** — Digital sales rooms and personalized microsites empowering frontline sales to engage buying committees. |
 | **[Leadpoet](https://leadpoet.com/)** 📊 | Leadpoet | **$6.7 Million** ($750K Pre-seed / Bittensor SN71 Subnet) | **$1,200 / year** ($100/mo Launch Plan; Accelerate at $500/mo) | **No free plan**; **7-day free trial** (Includes 25 free account search credits and 3 monitored accounts) | **Decentralized AI intent data** — Surfaces real-time buyer intent signals (funding, hiring surges, web tech stack shifts) powered by Bittensor subnet 71. |
 
+
 ---
+
 
 ## 🔓 Open-Source GitHub Projects
 
@@ -169,18 +144,12 @@ Contributions are welcome! Follow these steps to submit new B2B buyer engagement
 
 
 1. 🍴 **Fork** the repository.
-
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-
 3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
-
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 
-
 ---
-
-
 
 ## 🤝 Support & Sponsorship
 
@@ -208,9 +177,6 @@ Thank you so much for exploring the **Awesome B2B Buyer Engagement** repository!
 ---
 
 
-
 <p align="center">
-
   <b>Made with ❤️ for demand generation leaders, ABM strategists, and open-source buyer engagement advocates.</b>
-
 </p>
