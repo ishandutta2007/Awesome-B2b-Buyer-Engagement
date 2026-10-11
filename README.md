@@ -54,29 +54,19 @@
 
 ### 📌 Overview & SEO Summary
 
-Welcome to the ultimate curated directory of **B2B buyer engagement platforms**, **open-source ABM frameworks**, and **intent data intelligence tools**. Whether you are looking for enterprise-grade commercial solutions (such as *6sense*, *Demandbase*, and *Terminus*), or self-hostable open-source alternatives (like *Mautic*, *Helio*, and *Tailor*), this list covers category leaders, account intelligence, and privacy-respecting buyer engagement.
+Welcome to the curated directory of **B2B Buyer Engagement Platforms**, **Account-Based Marketing (ABM) Software**, **Open-Source Intent Data Engines**, and **Revenue Orchestration Systems**. 
 
+Whether you are evaluating enterprise-tier commercial solutions (such as **6sense**, **Demandbase**, **ZoomInfo GTM**, or **Mutiny**), or self-hostable open-source frameworks (such as **Twenty CRM**, **Cal.com**, **Novu**, **Chatwoot**, and **Mautic**), this guide provides comprehensive benchmarks covering market capitalization, specific transparent pricing tiers, free tier limits, and stargazer community validation.
 
+#### 🔍 SEO Keywords & Topics
+`B2B Buyer Engagement` • `Account-Based Marketing (ABM)` • `Buyer Intent Data` • `Open Source CRM` • `Web Personalization` • `GTM Intelligence` • `Marketing Automation` • `Omnichannel Customer Journeys` • `Buyer Signals` • `Lead Routing & Scheduling` • `Revenue Operations (RevOps)` • `Self-Hosted CDP`
 
 **Key Market Context:**
-
-- **6sense and Demandbase carry median annual contract values of $62,440 and $68,591** respectively, with enterprise implementations running **8–12 weeks** and requiring **9–12 months to demonstrate measurable ROI** .
-
-- **Terminus merged into DemandScience on November 12, 2024** with terminus.com redirecting to demandscience.com and **Ionic as the surviving orchestration product** .
-
-- **PathFactory was acquired by Kaltura on April 1, 2026** — ask about roadmap before committing .
-
-- **Folloze does not publish list pricing** — any figure found is a third-party estimate rather than a rate card .
-
-- **ZoomInfo released the GTM.AI CLI as open source under the MIT license** in July 2026 — search and lookup commands are free, with enrichment and agentic research consuming bulk data credits from an active subscription .
-
-- **Mautic powers marketing automation for 40,000+ companies** and provides **comprehensive customer insights, segmentation, personalization, and omnichannel automation** with **open source flexibility and data ownership** .
-
-- **Helio is an open-source, self-hostable, data-sovereign growth platform** with **AI-native marketing automation (CDP, segmentation, cross-channel journeys, email, analytics)** — load-tested at **20,000 events/s at p95 81ms** .
-
-- **Laudspeaker is the open-source Braze/Iterable alternative** with **omnichannel messaging (email, SMS, push)**, **no-code journey builder**, **time delays and time windows**, **user segments**, and **Postgres/CSV imports** .
-
-
+- **6sense and Demandbase** carry median annual contract values of **$62,440** and **$68,591** respectively, with enterprise implementations running **8–12 weeks** and requiring **9–12 months** to demonstrate measurable ROI.
+- **Terminus merged into DemandScience** on November 12, 2024, with terminus.com redirecting to demandscience.com and **Ionic** serving as the core account-based advertising engine.
+- **PathFactory was acquired by Kaltura** on April 1, 2026, pairing B2B content intelligence with conversational ChatFactory agents.
+- **Modern Open-Source Alternatives** (such as **Twenty** for CRM, **Cal.com** for buyer scheduling, **Chatwoot** for conversational sales, and **Novu** for omnichannel alerts) provide privacy-first, self-hostable foundations without vendor lock-in or unpredictable data egress costs.
+- **ZoomInfo released the GTM.AI CLI** under the MIT license, opening command-line access to account lookups and intent data for developers and autonomous agent loops.
 
 ---
 
@@ -123,63 +113,46 @@ Welcome to the ultimate curated directory of **B2B buyer engagement platforms**,
 
 ## 🔓 Open-Source GitHub Projects
 
+*Curated open-source software, self-hostable platforms, developer-first ABM tools, and privacy-respecting buyer journey engines sorted by GitHub Stars Count (Descending)* 🌟
 
+- **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+  **The open-source CRM alternative to Salesforce, designed for AI**, AGPL-3.0 licensed. **58,000+ GitHub Stars**. Full control over customer and target account data, customizable pipeline stages, native Postgres foundation, GraphQL & REST APIs, and modern account intelligence workflows. Essential core repository for managing target account lists and buying committee hierarchies. 🏢
 
-*Sorted by GitHub_Stars_Count (Descending)* 🌟
+- **[Cal.com](https://github.com/calcom/cal.com)** [![Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
+  **Open-source scheduling infrastructure for buyer meetings**, AGPL-3.0 licensed. **48,900+ GitHub Stars**. Replaces Calendly and Chili Piper for frictionless B2B buyer inbound booking, qualified lead routing, round-robin sales meetings, and automated buyer confirmation journeys directly from marketing web pages. 📅
 
+- **[Novu](https://github.com/novuhq/novu)** [![Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+  **The open-source communication infrastructure for agents, products, and buyer engagement**, MIT licensed. **40,100+ GitHub Stars**. Enterprise notification center providing cross-channel buyer messaging orchestration (in-app notifications, transactional email, SMS, push, chat) with a visual workflow designer, digest engines, and subscriber preferences. 🔔
 
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+  **Open-source live chat and conversational engagement platform**, MIT licensed. **37,600+ GitHub Stars**. Open alternative to Intercom and Drift. Engage high-intent website visitors in real-time, route key account visitors directly to dedicated account executives, and unify omnichannel buyer conversations across website widgets, email, and social channels. 💬
+
+- **[Plausible Analytics](https://github.com/plausible/analytics)** [![Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)  
+  **Privacy-first, lightweight open-source web analytics**, AGPL-3.0 licensed. **29,300+ GitHub Stars**. Cookie-free alternative to Google Analytics ideal for tracking buyer journey attribution, high-intent landing page conversions, campaign referral channels, and content engagement without cookie banners or GDPR friction. 📈
+
+- **[Formbricks](https://github.com/formbricks/formbricks)** [![Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+  **Open-source survey and buyer experience platform**, AGPL-3.0 licensed. **13,000+ GitHub Stars**. Alternative to Qualtrics. Trigger targeted micro-surveys at specific points in the buyer journey, collect qualification feedback from named accounts, and uncover buyer objections directly on your web pages. 📋
 
 - **[Mautic](https://github.com/mautic/mautic)** [![Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)  
-
-  **World's first open-source marketing automation product**, GPL-3.0 licensed. **40,000+ companies use Mautic**  — **comprehensive customer insights, segmentation, personalization, and omnichannel automation** . **Develop a single source of truth across your organization for the customer** — centralize all data points and activity across website, app, and in-store POS devices . **Open source flexibility with data ownership** — customize, integrate, and extend while retaining ownership of customer data . **Email, SMS, browser app, and web notifications out of the box** . **The most widely deployed open-source B2B buyer engagement platform** . 🏛️
-
-
-
-- **[Helio](https://github.com/achref-soua/helio)** [![Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)  
-
-  **Open-source growth platform — AI-native marketing automation: CDP, segmentation, cross-channel journeys, email, analytics. Self-hostable, data-sovereign** . **Load-tested at 20,000 events/s at p95 81ms** — **4× the ≥5,000 events/s budget** . **Multi-tenant isolation enforced at the database via PostgreSQL row-level security** . **Journey sends run on Temporal with explicit retry policies** . **Docker Compose profiles for local/self-host, Helm chart for Kubernetes, cloud-init for fastest hosted start** . **The most technically rigorous open-source buyer engagement platform** . 🚀
-
-
+  **World's premier open-source marketing automation platform**, GPL-3.0 licensed. **10,700+ GitHub Stars**. Over 40,000 organizations deploy Mautic for end-to-end B2B lead nurturing, account scoring, dynamic content personalization, drip campaign workflows, and self-hosted CRM integrations. 🏛️
 
 - **[Laudspeaker](https://github.com/laudspeaker/laudspeaker)** [![Stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)  
-
-  **Open-source customer journey automation — a Braze/Iterable alternative**, open-source. **Powers event-triggered cross-channel messages** — **have emails, SMS, and push automatically reach your users when, where and how you want** . **No-code journey builder**, **time delays and time windows** for drip campaigns, **user segments**, **database imports (Postgres) and CSV imports**, and **PostHog plugin** . **The most complete open-source omnichannel engagement platform** . 🎨
-
-
-
-- **[Tailor](https://github.com/mlndshh/tailor)** [![Stars](https://img.shields.io/github/stars/mlndshh/tailor?style=social&color=white)](https://github.com/mlndshh/tailor/stargazers)  
-
-  **Websites that adapt to every visitor, powered by Jev**, open-source. **React SDK plus a stateless decision API** — **your team writes a version of each section per audience** . **Tailor watches on-site behaviour (clicks, reading time, code copies), Jev decides who the visitor is, and the page re-renders headlines and buttons, reorders sections, and highlights the right pricing plan** . **Never hides anything, never changes what you're reading, only acts when Jev is confident, handles more than one audience** . **About 0.5s server-side per decision, ~1.2k input tokens, roughly $0.00005 per decision** . **The most innovative open-source web personalization platform** . 🎯
-
-
+  **Open-source customer journey automation — a self-hosted Braze/Iterable alternative**, AGPL-3.0 licensed. **2,600+ GitHub Stars**. Powers event-triggered omnichannel buyer messages (email, SMS, push) with an intuitive no-code journey canvas, time delays/windows, dynamic user cohorts, and direct Postgres/PostHog imports. 🎨
 
 - **[Tracardi](https://github.com/Tracardi/tracardi)** [![Stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=social&color=white)](https://github.com/Tracardi/tracardi/stargazers)  
+  **Open-source Customer Data Platform (CDP) & real-time personalization engine**, MIT licensed. **650+ GitHub Stars**. Ingests customer behavior across touchpoints, calculates real-time customer profiles, segments high-intent accounts, and triggers automated multi-channel engagement events. 📊
 
-  **Open-source customer data platform**, open-source. **Helps users engage with customers through automated digital experiences to improve sales performance** . **Create customer databases, track and manage interactions, collect data from different channels (mobile, web, IoT), automate personalized messages and targeted campaigns, and trigger actions based on events** . **Integrates with external systems including social media, SaaS, and AI** . **The most accessible open-source CDP for buyer engagement** . 📊
+- **[Helio](https://github.com/achref-soua/helio)** [![Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)  
+  **AI-native open-source growth platform**, AGPL-3.0 licensed. High-performance CDP and marketing automation engine load-tested at 20,000 events/sec at p95 81ms with PostgreSQL row-level security and Temporal orchestration. 🚀
 
-
+- **[Houseofmvps / reddit-intel-agent-mcp](https://github.com/Houseofmvps/reddit-intel-agent-mcp)** [![Stars](https://img.shields.io/github/stars/Houseofmvps/reddit-intel-agent-mcp?style=social&color=white)](https://github.com/Houseofmvps/reddit-intel-agent-mcp/stargazers)  
+  **Open-source Reddit buyer intent intelligence agent (MCP server)**, MIT licensed. Provides 14 automated tools including `find_buyer_intent` to surface high-intent software buyers, budget cues, urgency scores, and prospect usernames directly from active social communities. 📡
 
 - **[ZoomInfo GTM.AI CLI](https://github.com/Zoominfo/gtm-ai-cli)** [![Stars](https://img.shields.io/github/stars/Zoominfo/gtm-ai-cli?style=social&color=white)](https://github.com/Zoominfo/gtm-ai-cli/stargazers)  
+  **Command-line client for verified go-to-market data**, MIT licensed. Developer and terminal-first client to query corporate intelligence, contact lookups, account intent signals, and scoops into shell pipelines and AI agents. 🛠️
 
-  **Command-line client for verified go-to-market data**, MIT licensed . **Open source under MIT license** — **search and lookup commands are free** . **Installation via Homebrew or npm with prebuilt binaries for macOS, Linux, and Windows** . **OAuth sign-in in browser, no client ID or secret to paste** . **Results return as JSON, JSONL, CSV, YAML, or table — pipes cleanly into warehouse jobs, CRM updates, and agent workflows** . **The most developer-friendly open-source GTM data CLI** . 🛠️
-
-
-
-- **[abmbuddy](https://github.com/membranedev/abmbuddy)** [![Stars](https://img.shields.io/github/stars/membranedev/abmbuddy?style=social&color=white)](https://github.com/membranedev/abmbuddy/stargazers)  
-
-  **Agentic account research CLI with HubSpot write-back**, open-source. **Research any company from the command line — needs nothing but an AI key** . **`npx abmbuddy research stripe.com` for single companies, `--hubspot --all` for entire CRM portals** . **Collectors are deterministic (never agents)** — company-web, news, jobs, SEC filings, leadership content . **Agents (Vercel AI SDK, Zod schemas, Markdown prompts) handle extraction, signal, hypothesis, and outreach** . **One collector failing never fails an account, and one account failing never stops the run** . **The most accessible open-source agentic account research tool** . 🔍
-
-
-
-- **[reddit-intel-agent-mcp](https://github.com/...)** [![Stars](https://img.shields.io/github/stars/...?style=social&color=white)](https://github.com/.../stargazers)  
-
-  **Reddit intelligence for B2B buyer intent**, open-source. **14 tools, all free, no signup required, no API key needed** . **`find_buyer_intent`** finds people looking to buy products — **returns lead list with usernames, post URLs, intent scores, urgency (low/medium/high), budget hints, and signal tags** . **The most accessible open-source buyer intent signal tool** . 📡
-
-
-
-- **[Tenger Plugin](https://wordpress.org/plugins/tenger/)** [![Stars](https://img.shields.io/github/stars/...?style=social&color=white)](https://github.com/.../stargazers)  
-
-  **WordPress plugin for ABM marketing**, open-source. **Designed for non-technical marketing users intending to do ABM marketing** . **The most accessible ABM tool for WordPress sites** . 🔌
+- **[Tailor](https://github.com/mlndshh/tailor)** [![Stars](https://img.shields.io/github/stars/mlndshh/tailor?style=social&color=white)](https://github.com/mlndshh/tailor/stargazers)  
+  **Websites that adapt to every visitor, powered by Jev**, open-source. React SDK and stateless decision API that observes on-site visitor behavior and dynamically adapts page copy, sections, and pricing highlights to match the visitor's audience profile. 🎯
 
 
 
